@@ -1,7 +1,9 @@
 {
-  "FINGERPRINT": "google/oriole_beta/oriole:15/BP11.241121.013/12873528:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 6",
-  "SECURITY_PATCH": "2024-12-05",
-  "DEVICE_INITIAL_SDK_INT": 21
+  "MODEL": "Pixel 8a",
+  "FINGERPRINT": "google/akita_beta/akita:Baklava/BP22.250103.008/12932282:user/release-keys",
+  "PRODUCT": "akita_beta",
+  "DEVICE": "akita",
+  "SECURITY_PATCH": "2025-01-05",
+  "DEVICE_INITIAL_SDK_INT": "32"
 }
