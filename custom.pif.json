@@ -1,23 +1,31 @@
 {
-  "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9 Pro",
-  "FINGERPRINT": "google/caiman_beta/caiman:16/BP31.250502.008/13497110:user/release-keys",
-  "BRAND": "google",
-  "PRODUCT": "caiman_beta",
-  "DEVICE": "caiman",
-  "RELEASE": "16",
-  "ID": "BP31.250502.008",
-  "INCREMENTAL": "13497110",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "SECURITY_PATCH": "2025-05-05",
-  "DEVICE_INITIAL_SDK_INT": "32",
-  "*.build.id": "BP31.250502.008",
-  "*.security_patch": "2025-05-05",
-  "*api_level": "32",
-  "spoofBuild": "1",
-  "spoofProps": "0",
-  "spoofProvider": "0",
-  "spoofSignature": "0",
-  "verboseLogs": "0"
+  // Build Fields
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 9",
+    "FINGERPRINT": "google/tokay_beta/tokay:16/BP31.250502.008/13497110:user/release-keys",
+    "BRAND": "google",
+    "PRODUCT": "tokay_beta",
+    "DEVICE": "tokay",
+    "RELEASE": "16",
+    "ID": "BP31.250502.008",
+    "INCREMENTAL": "13497110",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2025-05-05",
+    "DEVICE_INITIAL_SDK_INT": "32",
+
+  // System Properties
+    "*.build.id": "BP31.250502.008",
+    "*.security_patch": "2025-05-05",
+    "*api_level": "32",
+
+  // Advanced Settings
+    "spoofBuild": "1",
+    "spoofProps": "0",
+    "spoofProvider": "0",
+    "spoofSignature": "0",
+    "verboseLogs": "0"
+
+  // Beta Released: 2025-05-20
+  // Estimated Expiry: 2025-07-01
 }
