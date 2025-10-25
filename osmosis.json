@@ -16,8 +16,8 @@
   "*.security_patch": "2025-07-05",
   "*api_level": "32",
   "spoofBuild": "1",
-  "spoofProps": "0",
-  "spoofProvider": "0",
+  "spoofProps": "1",
+  "spoofProvider": "1",
   "spoofSignature": "0",
   "verboseLogs": "0"
 }
