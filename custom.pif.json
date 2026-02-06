@@ -10,11 +10,11 @@
     "INCREMENTAL": "14394230",
     "TYPE": "user",
     "TAGS": "release-keys",
-    "SECURITY_PATCH": "2025-12-05",
+    "SECURITY_PATCH": "2026-1-05",
     "DEVICE_INITIAL_SDK_INT": "32",
 
     "*.build.id": "BP41.250916.015.A1",
-    "*.security_patch": "2025-12-05",
+    "*.security_patch": "2026-1-05",
     "*api_level": "32",
 
     "spoofBuild": "1",
