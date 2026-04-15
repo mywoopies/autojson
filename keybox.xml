@@ -1,61 +1,307 @@
 <?xml version="1.0"?>
-<AndroidAttestation>
-<NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="7784a7e552c9ec1f5c640466cfa0882d32c76eb2">
-<Key algorithm="ecdsa">
-<PrivateKey format="pem">
+<AndroidAttestation><!--@evokerr-->
+    <NumberOfKeyboxes>1</NumberOfKeyboxes>
+<!--Telegram @evokerr t.me/keyboxstrong-->
+    <Keybox DeviceID="t.me/keyboxstrong @evokerr">
+<!--t.me/keyboxstrong @evokerr-->
+        <Key algorithm="ecdsa"><!--@evokeroot-->
+            <PrivateKey format="pem"><!--t.me/evokerr-->
 -----BEGIN EC PRIVATE KEY-----
-MHcCAQEEIKqKe//BlH4s0eK76JdWQ2Ik0wmDlnK67agX9ZA2WxlyoAoGCCqGSM49AwEHoUQDQgAEmXjU6eJjeAVB4Avei+IrEH0bRyc8xwEG3c/2zRIErX0J+h34NMwXpjKWHG8j3j0CBex1s2scT6bXzfL+28cIyw==
+MHcCAQEEIIwlFUK1teHcIRfKas39pJ6agQVCtuLxkrnuMCRcUROooAoGCCqGSM49
+AwEHoUQDQgAEFolRaoUJXYLS9jhP5y0a3VZs0ANbs/yM9POVZB2YTPZrzDhS1VXT
++Lanfkk2HTlhLs3FMkDl9IWXrPyZiXnxfQ==
 -----END EC PRIVATE KEY-----
-</PrivateKey>
-<CertificateChain>
-<NumberOfCertificates>4</NumberOfCertificates>
-<Certificate format="pem">
+<!--@evokerr-->
+            </PrivateKey><!--t.me/evokerr-->
+<!--t.me/keyboxstrong-->
+            <CertificateChain><!--@evokerr Telegram-->
+                <NumberOfCertificates>3</NumberOfCertificates><!--@evokerr Telegram-->
+<!--t.me/evokerr-->
+                <Certificate format="pem"><!--keyboxstrong @evokerr-->
 -----BEGIN CERTIFICATE-----
-MIIB9DCCAXqgAwIBAgIRAN+Lxh1Y9WeszTaGiT0t+CswCgYIKoZIzj0EAwIwOTEMMAoGA1UEDAwDVEVFMSkwJwYDVQQFEyA0MTE2NTg2NjVlOWRjMjAxNzFmZjI5NDY4NzIwZWJhMjAeFw0yMTA2MTYxOTEyNDNaFw0zMTA2MTQxOTEyNDNaMDkxDDAKBgNVBAwMA1RFRTEpMCcGA1UEBRMgMDczN2E0NmE1MTc4ZGE3NDgwNzdmYzhmMzEzZTBkYjcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAT2Ptdx6E0TBwjWqSa4vWXxj1pOAW7MnE7ZCBdvFHel7aHzDPKVC3eKF6inbfLo0c8XZzLJEWoKTpXTutMy5uxyo2MwYTAdBgNVHQ4EFgQUiQokIzKb9f4ZvNyOb+Wje6oN8dEwHwYDVR0jBBgwFoAUDaL7z4pCOx7WeqnW0XT4FhK53wwwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAgQwCgYIKoZIzj0EAwIDaAAwZQIxAJ7n3k+F+zoStPMr65F0tnSVreFxxRMN2nOHgL8LF2wgEBBImeRhWK/OsWbgZWFk0QIwYW4Hh82c8Jb4DbVKn2nwl/ilSLc0zRardhjeLOEAaxcVX78ci8mAGc8miu0gj0+g
------END CERTIFICATE-----</Certificate>
-<Certificate format="pem">
+MIIB8zCCAXmgAwIBAgIQf6UuX5jz1kvUeVrclnoTSzAKBggqhkjOPQQDAjA5MQww
+CgYDVQQMDANURUUxKTAnBgNVBAUTIDdiNGQyYTVkNWZlZDA1NmJmNzQ2Y2I5MTA0
+OTg5NzlkMB4XDTI0MDcxMjIxMjIxMloXDTM0MDcxMDIxMjIxMlowOTEMMAoGA1UE
+DAwDVEVFMSkwJwYDVQQFEyAxYTBiOTUyZWQ1NzU5NzcwNDJmYWNmNGE5ZWY4YmVi
+YjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBaJUWqFCV2C0vY4T+ctGt1WbNAD
+W7P8jPTzlWQdmEz2a8w4UtVV0/i2p35JNh05YS7NxTJA5fSFl6z8mYl58X2jYzBh
+MB0GA1UdDgQWBBSqPh2bIMxi+PZZGGb4SCZD1YoBPTAfBgNVHSMEGDAWgBQpQX2g
+XexPcdCVGxeSxuRDIpWslzAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIC
+BDAKBggqhkjOPQQDAgNoADBlAjEAgGDseOQwBOjecJlcXNFJk/NN3tG+eG1/RFRd
+<!--@evokerr Telegram-->
++CiCrUcIyOpPxfKYbdSrcnsVCFxSAjBl8CJSpGY2Z891vF3GUdxVNP+MXM6LRiVD
+UIzJ9sFL7rJ16koZW//NYz852BQW2aw=
+-----END CERTIFICATE-----
+<!--keyboxstrong @evokerr-->
+                </Certificate><!--Telegram @evokerr t.me/keyboxstrong-->
+<!--@evokerr Telegram-->
+<!--evokeroot t.me/keyboxstrong-->
+                <Certificate format="pem"><!--t.me/keyboxstrong @evokerr-->
 -----BEGIN CERTIFICATE-----
-MIIDlDCCAXygAwIBAgIRAMFHdEVtod8H1tjDyo3Fr5owDQYJKoZIhvcNAQELBQAwGzEZMBcGA1UEBRMQZjkyMDA5ZTg1M2I2YjA0NTAeFw0yMTA2MTYxOTExMjdaFw0zMTA2MTQxOTExMjdaMDkxDDAKBgNVBAwMA1RFRTEpMCcGA1UEBRMgNDExNjU4NjY1ZTlkYzIwMTcxZmYyOTQ2ODcyMGViYTIwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAARkVs3cgZrOT5AOv8Q4O85GREyqLE8j+MEhQGQqJgX8kIfZuP+sy38CfH6k0Cp/vediS/YKdBJWdEAu6NZsftCGAL5MRoW227kKPdzccmgu+jq92ACChfQs3oYpk7sPoNujYzBhMB0GA1UdDgQWBBQNovvPikI7HtZ6qdbRdPgWErnfDDAfBgNVHSMEGDAWgBQ2YeEAfIgFCVGLRGxH/xpMyepPEjAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwICBDANBgkqhkiG9w0BAQsFAAOCAgEAoO7V5ldhsOkiiqW+7P6J6YLX7JFgygkvITXnYArIUHlSGMPgZ2HfytUNHj7iemJOn++tUbDZYv2V4KAfv3Xb5/iPrNT/8d4jNFv49VbCQkUL88nZ/tABJjgZVvMbPL2gX0amdiC4dZV6hUUmb/Klx/9aWQBFCf29vmx9q1E6w8L/RzoJd/0kl0SUfluznUVqibGr1n5HuEnYKy0hou+9vSwGmmFkT+Y9Wxs7DFkMUysEZa52LYuNLfzm/1oybvc8ESNebvb7rshzRAMsVEWuE0Mqiy8S7mytcXWqflyFnRi3TdI1gbRsHoDW67vcJoQRvRfRD0Ng8iTQY3OJQYnqlwu6bmQazLEQKniQKdrtEy/hSMN9qDCyTAw+skGLgOYxzzCdMLcZdXQ6iC9ID9BarQHzaelDrs9DkZ7TFuLZyWUgDoEJer66J28yMwzlURioZTifW6hiH9HrUi8n3ioiV6Hd3IJD8S0dJgvCAXVn/et4nGadpc5+wpimVf7OW9da8D0+s5sOalkMFziH4Xn/BNY3QZyANsLbxlJ+AzVi7XqEmPwZdhqUZEQd2ijDIMIsZvuo17diz4ZHZ7ajn/6RyDJnLTlwX8aoiyyvJT2CEm4zhptpgI1mU0kyRVO9YNW0OBwqdFjEh5w+K4apmoiUv2+jr5i+SbkjEPlEGd8DI3M=
------END CERTIFICATE-----</Certificate>
-<Certificate format="pem">
+MIIDkzCCAXugAwIBAgIQLWsPsr9I11TqphKlbJtWgDANBgkqhkiG9w0BAQsFADAb
+MRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTI0MDcxMjIxMjA1NFoXDTM0
+MDcxMDIxMjA1NFowOTEMMAoGA1UEDAwDVEVFMSkwJwYDVQQFEyA3YjRkMmE1ZDVm
+ZWQwNTZiZjc0NmNiOTEwNDk4OTc5ZDB2MBAGByqGSM49AgEGBSuBBAAiA2IABEzn
+L3Uv+p94TRmMSh5ZNamHXYjG82WOo/V87teAJ6gQPRpAdFmg2Rb9O7o/L+mrEFHt
+<!--t.me/keyboxstrong @evokerr-->
+zcDObojdnFnt53bDIXqFZhHgny4Cs+vymVKeLeHL4TIPTVgppUVCE96mphTuv6Nj
+MGEwHQYDVR0OBBYEFClBfaBd7E9x0JUbF5LG5EMilayXMB8GA1UdIwQYMBaAFDZh
+4QB8iAUJUYtEbEf/GkzJ6k8SMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQD
+AgIEMA0GCSqGSIb3DQEBCwUAA4ICAQCgbCrE+O9PLZOIeox7dzzufxtGiWOn5FY8
+<!--t.me/evokerr-->
+LfGT+tpONdqvOdm+ML3RHiNXuor85OjjWV8zeaWWJulnBjbQsmDUlGZPVnD5PqlG
+<!--Telegram @evokeroot-->
+nwD/Tc/NifBBEhEqcspuiS7TRZTECG/gWCIUUlXwra4+xy7YyszmwE6pEEol35W8
+uYA5NqGd6olwk6kqxZyHKpfuugV0dhlGNZ1YH7k9HGH4PDPba7CZk5I4xO2SXbHw
+qYjBUjplaCCKJ1BY7il4zP8tkejehYpgVwFP2VxkbgnviTRawyzaRPa2t0Oq+tN6
+/hGk8ZcwhwsSOHiZe/lUCuepir006CzR7iKn+j07xT79UDaYt4YYSl3qhWRXEs6v
+L7zw8IGDKSbCvFQkCLW0uXZsqg2bsLS4PJJrD4K8pBQGMOppRoYocGgy0XGOy8KC
+GrM3jK14sLFnH+7W6K1qS0bXt/lLc36r+MZ76H9I2RtiY++4FUDFawHNeq1KvjAO
+6gdxdyGmkSJzFHPY7Hn7KDQgx2/XeSBQ44ZYh0cD9h+6lELTuLqyyMXr0LqPCQ8v
+ruiLX6+5wV+eDouSfcJNjt7ICtAv0DA3z47lGBNF5GbX7BYk1FI93xu2R5j1+ZDl
+<!--t.me/keyboxstrong-->
+XO42FrRcL27Cew/YhUHTTS9qfBywf1NDfbx1JQgqOdhUeb5ALtXae7HOnkersCx+
+yJA4QsCqzg==
+<!--evokeroot t.me/keyboxstrong-->
+-----END CERTIFICATE-----
+<!--t.me/keyboxstrong-->
+                </Certificate><!--t.me/keyboxstrong-->
+<!--@evokerr Telegram-->
+<!--t.me/evokerr-->
+                <Certificate format="pem"><!--@evokerr-->
 -----BEGIN CERTIFICATE-----
-MIIFHDCCAwSgAwIBAgIJANUP8luj8tazMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNVBAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMTkxMTIyMjAzNzU4WhcNMzQxMTE4MjAzNzU4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAr7bHgiuxpwHsK7Qui8xUFmOr75gvMsd/dTEDDJdSSxtf6An7xyqpRR90PL2abxM1dEqlXnf2tqw1Ne4Xwl5jlRfdnJLmN0pTy/4lj4/7tv0Sk3iiKkypnEUtR6WfMgH0QZfKHM1+di+y9TFRtv6y//0rb+T+W8a9nsNL/ggjnar86461qO0rOs2cXjp3kOG1FEJ5MVmFmBGtnrKpa73XpXyTqRxB/M0n1n/W9nGqC4FSYa04T6N5RIZGBN2z2MT5IKGbFlbC8UrW0DxW7AYImQQcHtGl/m00QLVWutHQoVJYnFPlXTcHYvASLu+RhhsbDmxMgJJ0mcDpvsC4PjvB+TxywElgS70vE0XmLD+OJtvsBslHZvPBKCOdT0MS+tgSOIfga+z1Z1g7+DVagf7quvmag8jfPioyKvxnK/EgsTUVi2ghzq8wm27ud/mIM7AY2qEORR8Go3TVB4HzWQgpZrt3i5MIlCaY504LzSRiigHCzAPlHws+W0rB5N+er5/2pJKnfBSDiCiFAVtCLOZ7gLiMm0jhO2B6tUXHI/+MRPjy02i59lINMRRev56GKtcd9qO/0kUJWdZTdA2XoS82ixPvZtXQpUpuL12ab+9EaDK8Z4RHJYYfCT3Q5vNAXaiWQ+8PTWm2QgBR/bkwSWc+NpUFgNPN9PvQi8WEg5UmAGMCAwEAAaNjMGEwHQYDVR0OBBYEFDZh4QB8iAUJUYtEbEf/GkzJ6k8SMB8GA1UdIwQYMBaAFDZh4QB8iAUJUYtEbEf/GkzJ6k8SMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQDAgIEMA0GCSqGSIb3DQEBCwUAA4ICAQBOMaBc8oumXb2voc7XCWnuXKhBBK3e2KMGz39t7lA3XXRe2ZLLAkLM5y3J7tURkf5a1SutfdOyXAmeE6SRo83Uh6WszodmMkxK5GM4JGrnt4pBisu5igXEydaW7qq2CdC6DOGjG+mEkN8/TA6p3cnoL/sPyz6evdjLlSeJ8rFBH6xWyIZCbrcpYEJzXaUOEaxxXxgYz5/cTiVKN2M1G2okQBUIYSY6bjEL4aUN5cfo7ogP3UvliEo3Eo0YgwuzR2v0KR6C1cZqZJSTnghIC/vAD32KdNQ+c3N+vl2OTsUVMC1GiWkngNx1OO1+kXW+YTnnTUOtOIswUP/Vqd5SYgAImMAfY8U9/iIgkQj6T2W6FsScy94IN9fFhE1UtzmLoBIuUFsVXJMTz+Jucth+IqoWFua9v1R93/k98p41pjtFX+H8DslVgfP097vju4KDlqN64xV1grw3ZLl4CiOe/A91oeLm2UHOq6wn3esB4r2EIQKb6jTVGu5sYCcdWpXr0AUVqcABPdgL+H7qJguBw09ojm6xNIrw2OocrDKsudk/okr/AwqEyPKw9WnMlQgLIKw1rODG2NvU9oR3GVGdMkUBZutL8VuFkERQGt6vQ2OCw0sV47VMkuYbacK/xyZFiRcrPJPb41zgbQj9XAEyLKCHex0SdDrx+tWUDqG8At2JHA==
------END CERTIFICATE-----</Certificate>
-<Certificate format="pem">
-                    -----BEGIN CERTIFICATE-----
-                    MIIFYDCCA0igAwIBAgIJAOj6GWMU0voYMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
-                    BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMTYwNTI2MTYyODUyWhcNMjYwNTI0MTYy
-                    ODUyWjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
-                    AQEFAAOCAg8AMIICCgKCAgEAr7bHgiuxpwHsK7Qui8xUFmOr75gvMsd/dTEDDJdS
-                    Sxtf6An7xyqpRR90PL2abxM1dEqlXnf2tqw1Ne4Xwl5jlRfdnJLmN0pTy/4lj4/7
-                    tv0Sk3iiKkypnEUtR6WfMgH0QZfKHM1+di+y9TFRtv6y//0rb+T+W8a9nsNL/ggj
-                    nar86461qO0rOs2cXjp3kOG1FEJ5MVmFmBGtnrKpa73XpXyTqRxB/M0n1n/W9nGq
-                    C4FSYa04T6N5RIZGBN2z2MT5IKGbFlbC8UrW0DxW7AYImQQcHtGl/m00QLVWutHQ
-                    oVJYnFPlXTcHYvASLu+RhhsbDmxMgJJ0mcDpvsC4PjvB+TxywElgS70vE0XmLD+O
-                    JtvsBslHZvPBKCOdT0MS+tgSOIfga+z1Z1g7+DVagf7quvmag8jfPioyKvxnK/Eg
-                    sTUVi2ghzq8wm27ud/mIM7AY2qEORR8Go3TVB4HzWQgpZrt3i5MIlCaY504LzSRi
-                    igHCzAPlHws+W0rB5N+er5/2pJKnfBSDiCiFAVtCLOZ7gLiMm0jhO2B6tUXHI/+M
-                    RPjy02i59lINMRRev56GKtcd9qO/0kUJWdZTdA2XoS82ixPvZtXQpUpuL12ab+9E
-                    aDK8Z4RHJYYfCT3Q5vNAXaiWQ+8PTWm2QgBR/bkwSWc+NpUFgNPN9PvQi8WEg5Um
-                    AGMCAwEAAaOBpjCBozAdBgNVHQ4EFgQUNmHhAHyIBQlRi0RsR/8aTMnqTxIwHwYD
-                    VR0jBBgwFoAUNmHhAHyIBQlRi0RsR/8aTMnqTxIwDwYDVR0TAQH/BAUwAwEB/zAO
-                    BgNVHQ8BAf8EBAMCAYYwQAYDVR0fBDkwNzA1oDOgMYYvaHR0cHM6Ly9hbmRyb2lk
-                    Lmdvb2dsZWFwaXMuY29tL2F0dGVzdGF0aW9uL2NybC8wDQYJKoZIhvcNAQELBQAD
-                    ggIBACDIw41L3KlXG0aMiS//cqrG+EShHUGo8HNsw30W1kJtjn6UBwRM6jnmiwfB
-                    Pb8VA91chb2vssAtX2zbTvqBJ9+LBPGCdw/E53Rbf86qhxKaiAHOjpvAy5Y3m00m
-                    qC0w/Zwvju1twb4vhLaJ5NkUJYsUS7rmJKHHBnETLi8GFqiEsqTWpG/6ibYCv7rY
-                    DBJDcR9W62BW9jfIoBQcxUCUJouMPH25lLNcDc1ssqvC2v7iUgI9LeoM1sNovqPm
-                    QUiG9rHli1vXxzCyaMTjwftkJLkf6724DFhuKug2jITV0QkXvaJWF4nUaHOTNA4u
-                    JU9WDvZLI1j83A+/xnAJUucIv/zGJ1AMH2boHqF8CY16LpsYgBt6tKxxWH00XcyD
-                    CdW2KlBCeqbQPcsFmWyWugxdcekhYsAWyoSf818NUsZdBWBaR/OukXrNLfkQ79Iy
-                    ZohZbvabO/X+MVT3rriAoKc8oE2Uws6DF+60PV7/WIPjNvXySdqspImSN78mflxD
-                    qwLqRBYkA3I75qppLGG9rp7UCdRjxMl8ZDBld+7yvHVgt1cVzJx9xnyGCC23Uaic
-                    MDSXYrB4I4WHXPGjxhZuCuPBLTdOLU8YRvMYdEvYebWHMpvwGCF6bAx3JBpIeOQ1
-                    wDB5y0USicV3YgYGmi+NZfhA4URSh77Yd6uuJOJENRaNVTzk
-                    -----END CERTIFICATE-----
-                </Certificate>
-</CertificateChain>
-</Key>
-</Keybox>
-</AndroidAttestation>
+MIIFHDCCAwSgAwIBAgIJAPHBcqaZ6vUdMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
+BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMjIwMzIwMTgwNzQ4WhcNNDIwMzE1MTgw
+NzQ4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
+AQEFAAOCAg8AMIICCgKCAgEAr7bHgiuxpwHsK7Qui8xUFmOr75gvMsd/dTEDDJdS
+Sxtf6An7xyqpRR90PL2abxM1dEqlXnf2tqw1Ne4Xwl5jlRfdnJLmN0pTy/4lj4/7
+<!--Telegram @evokerr t.me/keyboxstrong-->
+tv0Sk3iiKkypnEUtR6WfMgH0QZfKHM1+di+y9TFRtv6y//0rb+T+W8a9nsNL/ggj
+nar86461qO0rOs2cXjp3kOG1FEJ5MVmFmBGtnrKpa73XpXyTqRxB/M0n1n/W9nGq
+C4FSYa04T6N5RIZGBN2z2MT5IKGbFlbC8UrW0DxW7AYImQQcHtGl/m00QLVWutHQ
+<!--@evokerr-->
+oVJYnFPlXTcHYvASLu+RhhsbDmxMgJJ0mcDpvsC4PjvB+TxywElgS70vE0XmLD+O
+JtvsBslHZvPBKCOdT0MS+tgSOIfga+z1Z1g7+DVagf7quvmag8jfPioyKvxnK/Eg
+sTUVi2ghzq8wm27ud/mIM7AY2qEORR8Go3TVB4HzWQgpZrt3i5MIlCaY504LzSRi
+igHCzAPlHws+W0rB5N+er5/2pJKnfBSDiCiFAVtCLOZ7gLiMm0jhO2B6tUXHI/+M
+<!--Telegram @evokeroot-->
+RPjy02i59lINMRRev56GKtcd9qO/0kUJWdZTdA2XoS82ixPvZtXQpUpuL12ab+9E
+aDK8Z4RHJYYfCT3Q5vNAXaiWQ+8PTWm2QgBR/bkwSWc+NpUFgNPN9PvQi8WEg5Um
+AGMCAwEAAaNjMGEwHQYDVR0OBBYEFDZh4QB8iAUJUYtEbEf/GkzJ6k8SMB8GA1Ud
+<!--Telegram @evokeroot-->
+IwQYMBaAFDZh4QB8iAUJUYtEbEf/GkzJ6k8SMA8GA1UdEwEB/wQFMAMBAf8wDgYD
+VR0PAQH/BAQDAgIEMA0GCSqGSIb3DQEBCwUAA4ICAQB8cMqTllHc8U+qCrOlg3H7
+174lmaCsbo/bJ0C17JEgMLb4kvrqsXZs01U3mB/qABg/1t5Pd5AORHARs1hhqGIC
+W/nKMav574f9rZN4PC2ZlufGXb7sIdJpGiO9ctRhiLuYuly10JccUZGEHpHSYM2G
+tkgYbZba6lsCPYAAP83cyDV+1aOkTf1RCp/lM0PKvmxYN10RYsK631jrleGdcdkx
+oSK//mSQbgcWnmAEZrzHoF1/0gso1HZgIn0YLzVhLSA/iXCX4QT2h3J5z3znluKG
+1nv8NQdxei2DIIhASWfu804CA96cQKTTlaae2fweqXjdN1/v2nqOhngNyz1361mF
+mr4XmaKH/ItTwOe72NI9ZcwS1lVaCvsIkTDCEXdm9rCNPAY10iTunIHFXRh+7KPz
+lHGewCq/8TOohBRn0/NNfh7uRslOSZ/xKbN9tMBtw37Z8d2vvnXq/YWdsm1+JLVw
+<!--@evokeroot-->
+n6yYD/yacNJBlwpddla8eaVMjsF6nBnIgQOf9zKSe06nSTqvgwUHosgOECZJZ1Eu
+zbH4yswbt02tKtKEFhx+v+OTge/06V+jGsqTWLsfrOCNLuA8H++z+pUENmpqnnHo
+vaI47gC+TNpkgYGkkBT6B/m/U01BuOBBTzhIlMEZq9qkDWuM2cA5kW5V3FJUcfHn
+<!--@evokerr Telegram-->
+w1IdYIg2Wxg7yHcQZemFQg==
+<!--t.me/keyboxstrong-->
+-----END CERTIFICATE-----
+<!--t.me/evokerr-->
+                </Certificate><!--t.me/keyboxstrong-->
+<!--t.me/keyboxstrong-->
+            </CertificateChain><!--evokeroot t.me/keyboxstrong-->
+<!--@evokeroot-->
+        </Key><!--@evokerr-->
+<!--keyboxstrong @evokerr-->
+        <Key algorithm="rsa"><!--@evokerr Telegram-->
+            <PrivateKey format="pem"><!--t.me/keyboxstrong-->
+-----BEGIN RSA PRIVATE KEY-----
+MIIG5AIBAAKCAYEAq2s+9Gfy78zby+qlNkjIuYxekqsrW5/xvQYvZK0KKev0ml6p
+Ta+xhJIaeoHDJDbU/+xfSiFzHyLD7yR4KcXcB1CddLvpj7EKGD1rtT38qQTj3AkF
+qJoEb1kIoPGzkxWm5IofqAYG8SOwqiiwMsKJTS9YORyrlxOiDvcj40UUbia8FP2b
+7GhhOeT95yUNIaYhwtixitWnfffRbizlPUO1Iics7np5lZWF+rZTEGrSRRiTv3Gw
+<!--@evokeroot-->
+QUcBGyKRkY5LVcwb39QUoY89VH6emvbDhmbrOBvOcc5RcOL34kcCr7TYyQiyrVoY
+<!--@evokerr Telegram-->
+buHlAN6ZE+lN78I4CRgm22DoGaff6icJmdWaKlStx3ZgZNqQ1XEaaeWBXoSep4hB
+<!--@evokerr-->
+C9aP1zOvRmxjZjpUvHeZnq51Q97EzXypeDcgG12WYhIB5h58OBo8MrXzRKRC33jl
+JrOwJp+oxlFWVb1zJedUN1sK8Ks2LihlzD2WJKwTANSnYSgTtPutNHadmzgJCJ5d
+91gqOW7aDD9vqEQfAgMBAAECggGAJ5eovci4mtyFM88pg6VB/2FFgrjYVdxWeGNS
+VP2GqHIgV/tfPVtENCuOxBbunJGxlr7gr32UWm+sM7MHshZKIMJk685vPsoUW87r
+7ru3fM5tVqgaz3trZNB6prnM0T8iAg1JDIT/23hz2Il3UPIPxm0WAnL1yvo05yH7
+/wU4l8yIioydE/hz5GxYnKe5Jbl6eMeWEkwQ2I6Bp+HkvMbDsnS78wUEyiD0BhlQ
+jC0wDdeEYKaAoEMnJT5Rwv3LtrBiqs9enfb4IwHKWrc4izqbzgXDo2lun2i4UGio
+YTqFnppYBvDIZ7AF/IHTJeG+gtJ/vG5uvv5wJWsUDEOpPzm6OmFYxF/5ebOP0Wag
+NtBzK0MXDlY3cfrZ3H5/rVHgzTOxathG+j6PYxA89cAbMFQHKrkG+XTKssrOwQYP
+<!--Telegram @evokeroot-->
+GqBNq5LeqBBuVZkh9smhh2Q8OvyK5yhmBwTvu8ZLKS6WLCFWzWbMjz7rDYey6+sw
+04gk9rj9j3WqD1A9d1VySUqSCvpZAoHBAN/ecF58GDb6v8pF55ULem4/MCmjLy3N
+K+ONqMB4b7goiHQERF+eaxTjMCd7/ynbQjxhqtsrgF8RcjLOjq/V0p1lhMrM3/h/
+7OtuTov2fT5SvIrvln1RU62AtltWVtdgvagQiVrDUf+AaQoXZEvG+5IHpkCCg4/a
+tPoLhLKj7Fd2JbFRvZvm0jsrHHFkIizI9bm5v5XapempV0X6qUMS1eFH3jFXR5QO
+<!--evokeroot t.me/keyboxstrong-->
++8DYzZxRXcsjvaZ0wYG65h+hysGFcRmUCwKBwQDEBaZ4y4DQS5SYjK33w6t/PEvd
+oyi9+vY9UQpY/Vjt+C+/266+TDEJxITIbDf7lNM3I3JaiJgMqKKYSGenKZzUF06j
+YxCa8lEp0CrwnEPWwfhGwP0VvtLg63kdqUA03mH7svObcmy5Hq8BXFvHIVt4tSz9
+bFBCHR/qewU3mEESnVd1+kNCw2dIMRR90wNdUa2ToQ3RDyvvyVFCW9mc2BosQyTC
+<!--Telegram @evokeroot-->
+k+EasgXhh+lF1ZWcVCZwiLvH/RPOhrpypEpU6L0CgcEAz0K+YAud05D07Y0oqYm1
+8MnZikMFU+8nGga13HPkYuhL5LVqo+gkFXN8yqF3DEZtnT+DEmTE9b9OLhGkctCQ
+rJ4ngiaJmSS+sP0wBU7Qh1nMKwlEF4Oq5/BJZGib/80V6bpdoEVC7jzxgqFDfxCb
+KoigeAsdSJrggLsXQNiY4CSHIxKda/AYZSU1sRlWtoXbUfbRlCiZAKqCHUzDVlDi
+6S5DXQUERORWWiWevoFqR78wPyLLYJMrqM9+ywoDOv4fAoHBAK+r1KYa0sVZhsE0
+ClCqNg6gDemCaGfh+j23XAumeMVDkB9kFHWMuMHlMY6glYdMuAGJLdl+4q0tkBHj
+<!--@evokerr Telegram-->
+iakgvODCRoJcrKwAD8bmPSVHFfDoAsX9/JI5YqmZvgBcByOaTLuSg4lDAbbhjbst
+dz69YUmLLNes8zxc95ZfS6yoMWEqSxB7CT5S+kOTYKbmrfQ619EfG8/IxfpuM/nB
+cQOEE+io/8+1UZ5n/qdA80jXge4I6C4gDBHNd6u1yHAnVkpEDQKBwCMy+cK/p+fn
+NUKtm+vgogo//J3khLzhDeOXuCdwlNkxyV36IYaIAEhye0m80gFbW83J5QKnO+oR
+3UvqIyIWj/sCFWHooHiO95ktQlGwaBt4c7/zCafOSx42QrOKNcOxrEc57TnSIEiW
+9j6sPkCn7GgO3AlNBWom2vU4aePDkZbYmOa26YVgekRFhVEtP+hZkOzgSh/+X3Lf
+<!--@evokerr-->
+EPlqXwC6/TFnGq0n0yaR8BI9NqLevigygi6vNIREkqN/b91JS5CJtA==
+-----END RSA PRIVATE KEY-----
+<!--@evokerr-->
+            </PrivateKey><!--Telegram @evokerr t.me/keyboxstrong-->
+<!--Telegram @evokeroot-->
+            <CertificateChain><!--evokeroot t.me/keyboxstrong-->
+                <NumberOfCertificates>3</NumberOfCertificates><!--keyboxstrong @evokerr-->
+<!--@evokeroot-->
+                <Certificate format="pem"><!--Telegram @evokeroot-->
+-----BEGIN CERTIFICATE-----
+MIIE3zCCAsegAwIBAgIQcmHwBmqmW97Kqycq6CZDwzANBgkqhkiG9w0BAQsFADA5
+MQwwCgYDVQQMDANURUUxKTAnBgNVBAUTIDdiNGQyYTVkNWZlZDA1NmJmNzQ2Y2I5
+MTA0OTg5NzlkMB4XDTI0MDcxMjIxMjIxMVoXDTM0MDcxMDIxMjIxMVowOTEMMAoG
+A1UEDAwDVEVFMSkwJwYDVQQFEyAxYTBiOTUyZWQ1NzU5NzcwNDJmYWNmNGE5ZWY4
+YmViYjCCAaIwDQYJKoZIhvcNAQEBBQADggGPADCCAYoCggGBAKtrPvRn8u/M28vq
+pTZIyLmMXpKrK1uf8b0GL2StCinr9JpeqU2vsYSSGnqBwyQ21P/sX0ohcx8iw+8k
+<!--keyboxstrong @evokerr-->
+eCnF3AdQnXS76Y+xChg9a7U9/KkE49wJBaiaBG9ZCKDxs5MVpuSKH6gGBvEjsKoo
+sDLCiU0vWDkcq5cTog73I+NFFG4mvBT9m+xoYTnk/eclDSGmIcLYsYrVp3330W4s
+<!--t.me/keyboxstrong-->
+5T1DtSInLO56eZWVhfq2UxBq0kUYk79xsEFHARsikZGOS1XMG9/UFKGPPVR+npr2
+w4Zm6zgbznHOUXDi9+JHAq+02MkIsq1aGG7h5QDemRPpTe/COAkYJttg6Bmn3+on
+CZnVmipUrcd2YGTakNVxGmnlgV6EnqeIQQvWj9czr0ZsY2Y6VLx3mZ6udUPexM18
+qXg3IBtdlmISAeYefDgaPDK180SkQt945SazsCafqMZRVlW9cyXnVDdbCvCrNi4o
+<!--@evokerr-->
+Zcw9liSsEwDUp2EoE7T7rTR2nZs4CQieXfdYKjlu2gw/b6hEHwIDAQABo2MwYTAd
+BgNVHQ4EFgQUO7PNkiD78zv+R5fibHyGc7LSPJ0wHwYDVR0jBBgwFoAUXzSzsTc0
+SkRl7NbzmVIeBpIxOEMwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAgQw
+DQYJKoZIhvcNAQELBQADggIBABZvIP9OLJZ2cdAqgzSzYI94c5JwfKRMFE5gfpet
+<!--Telegram @evokerr t.me/keyboxstrong-->
+tZRGxx2HH+RKOcgxS6RV+JYUOf37kk79GuiG1QQXaHRItDyHCbQzfcF4Z8K3uW/E
+qAYD+8pMYv/m3ywzM4M+Ff8qkYQQMgY7XcVisn3F7sag5WTRhqFOsU/aF2kWhfuQ
+UEiei03vrWQeZh6XPBjB6kAWc+xt+E7g3KNvi68WbwBnlGZnTasK4iVZ2/75WpPT
+C3PRHICS6arFZAgg7RLzINUxl8Nz9IGmNmKGQnlA47bNITd3hgP23F83qMTYM5qo
+<!--Telegram @evokeroot-->
+w2fgLgjyUXx10JgsAjLBKph8PAHZTavXScOrIcMEpHqb3j0aCxgladi8wLj8p0BM
+<!--@evokerr-->
+zTVYE+PDI3yFxtVvc7Xr0aKH0zAzwyOhWpJo7ubaJ1yZJ8uAVZxVbdM6dDrmRDaM
+L5v86ANV/eW23MMFzui/8xYjIUmktGRbrPk1NEelkiFDa3rCSK9KX79lmkYbJWpr
+PPTGA/ULo7cn6NnpRj6gQ5PaxsWSAEAFCyKgbQqKwslaWfcr6P8PwQAecnuHMJlH
+<!--@evokerr Telegram-->
+uKob6UfgFqdyc/c/v/PHuK+t3/OCXwVjC2fBRlmSFCSqFUmWOyH0WldJi1ab2FyR
+<!--Telegram @evokerr t.me/keyboxstrong-->
+DFAu/A4UrJiHOd2zr3r569a+SqnkujWBwjg6kMoUUbWCEknr7AzVckJBGdGFXynA
+4jEB
+-----END CERTIFICATE-----
+<!--Telegram @evokeroot-->
+                </Certificate><!--@evokeroot-->
+<!--t.me/evokerr-->
+<!--@evokerr-->
+                <Certificate format="pem"><!--@evokerr Telegram-->
+-----BEGIN CERTIFICATE-----
+MIIFQjCCAyqgAwIBAgIRALao9a7g7mkpyPAAvWkq6rcwDQYJKoZIhvcNAQELBQAw
+GzEZMBcGA1UEBRMQZjkyMDA5ZTg1M2I2YjA0NTAeFw0yNDA3MTIyMTIwMzdaFw0z
+NDA3MTAyMTIwMzdaMDkxDDAKBgNVBAwMA1RFRTEpMCcGA1UEBRMgN2I0ZDJhNWQ1
+ZmVkMDU2YmY3NDZjYjkxMDQ5ODk3OWQwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAw
+ggIKAoICAQCodLLALoxABfA0a0l62gfXMGicxvU7A/OJO6z3cPamONyaxVpAWYDc
+ogwhkPh0gS271E6NdBFN1GiB1HgY/aqKpvl90h8gPzXypZRquFeh3X9WTNqR98hu
+<!--t.me/keyboxstrong-->
+jEiCmyfCDuLV8pBoCYhOhjqIZIfz2hCuAgCN1Wi+DDiqn+D/+ZL1qDl1fmJSSFjw
+w0HRnyfSkpWtazp5lvVgaOgha2drw4O+w4JB+8WK2ooq/IsVcZHjDg9dzEy/8AO6
+<!--Telegram @evokeroot-->
+y7ZN6+/6p47xTMuuuSuBTVcamaVhO5djhj8BjQlztTvbePNYMfLFepi7AQjZp3WB
+R9QXCfK+rQrjiVJSAaFEwYStNsWViK0MU+0iY/ZWQMCBZvsAw/lq1SLgHztQh7Qk
+oVQ6e9tTxdmJK7QNwHWieM4uLX7Vs0Gaj3ZO+HqMffPJNKHTGPm3LlwtGCUbTVcY
+VlPnWktPBeh5odb9tHxCcF2sZhI5sYP6fDgg0JWFYrQXZd2grAAHDNzqgV/RdtOD
+vh8J+HaoF2TmXpGLOVZa7OMu4n63fQZSgPbIXsfCpc/Ow54dZ8ZXE8KtRZgjNns+
+tnqi8Wo2yFiG3/KpSUOquuJ/VAynzFqqdmYYeI0qdT7AepFFmzpo/elh4WAnnaRf
+fZIoyytdlwshmFRYwRYGOLIF/a+JKXBfpTQBuc/NizAHk45keKQ+mwIDAQABo2Mw
+<!--t.me/keyboxstrong-->
+YTAdBgNVHQ4EFgQUXzSzsTc0SkRl7NbzmVIeBpIxOEMwHwYDVR0jBBgwFoAUNmHh
+<!--@evokerr-->
+AHyIBQlRi0RsR/8aTMnqTxIwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMC
+AgQwDQYJKoZIhvcNAQELBQADggIBAENTTEEFHz7y3FW+aMkqTU5sAW8IhzjJJWn+
+NJDQr3m3ZvnA0YOrhjFghmmcQ2GOn0x1c1cSypU4WAc8rFUaM/osK7J/aQ75sMrI
+PnWIrWJEWo6xGcLZqPLxnTBVA27wTN+DR6Vz7B/BKBs/z4ymeJ/Gy3mLx7L2BgxA
+<!--@evokerr-->
+VrSdnm9tkth5Vx+BR6i3RcBfVVeYb2jLRMujy5KKo63ze8Bs/ZtXZsvKw6izXCnh
+<!--Telegram @evokerr t.me/keyboxstrong-->
+u4FKC/4crGIV3GSOD9AJxk2HqVf1lESzo96VdwKd22Gu5Lwmpq+TQiVcIl8aFmwz
+X80S3dOG1xTMWFzBoJIdJ20xNihSY1NZeGtVeVSpKAtN95luwDIB3ATEJqVB4yDj
+bsEAMl5P0PNjvzK7ilsu+K1OWbuFslp/HXNrbSaBLKovsDr/i5vKYQg6aRloRsj8
+<!--@evokerr Telegram-->
+tHwuc4W8RGoKPKdOgGrXaCyQrXiiNfUy0ctWLtxf2p7NlJWheDG0CppN/t9olhDM
+<!--t.me/keyboxstrong @evokerr-->
+A3TQWTP6nIrqym7YDXhUrHKRSfchUO+oLfO2Gf2vOM+ncppN43/dAWf2/XKA83BL
+Q2dDcpYk/wCS8hiitUArUeQWiKpYbokQaO3giXLM7lwE9DU9mj/QvmI0czzchtJL
+<!--keyboxstrong @evokerr-->
+xQ5KRDN5EzC+9vbP24qTExflohoPmiEeGUqNrnBRwlN/SDRICswYMCn3Pny0YaFF
+<!--t.me/evokerr-->
+41dj7tak
+-----END CERTIFICATE-----
+<!--t.me/evokerr-->
+                </Certificate><!--Telegram @evokerr t.me/keyboxstrong-->
+<!--t.me/evokerr-->
+<!--t.me/evokerr-->
+                <Certificate format="pem"><!--t.me/evokerr-->
+-----BEGIN CERTIFICATE-----
+MIIFHDCCAwSgAwIBAgIJAPHBcqaZ6vUdMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
+BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMjIwMzIwMTgwNzQ4WhcNNDIwMzE1MTgw
+NzQ4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
+<!--@evokeroot-->
+AQEFAAOCAg8AMIICCgKCAgEAr7bHgiuxpwHsK7Qui8xUFmOr75gvMsd/dTEDDJdS
+<!--@evokerr Telegram-->
+Sxtf6An7xyqpRR90PL2abxM1dEqlXnf2tqw1Ne4Xwl5jlRfdnJLmN0pTy/4lj4/7
+tv0Sk3iiKkypnEUtR6WfMgH0QZfKHM1+di+y9TFRtv6y//0rb+T+W8a9nsNL/ggj
+nar86461qO0rOs2cXjp3kOG1FEJ5MVmFmBGtnrKpa73XpXyTqRxB/M0n1n/W9nGq
+C4FSYa04T6N5RIZGBN2z2MT5IKGbFlbC8UrW0DxW7AYImQQcHtGl/m00QLVWutHQ
+oVJYnFPlXTcHYvASLu+RhhsbDmxMgJJ0mcDpvsC4PjvB+TxywElgS70vE0XmLD+O
+JtvsBslHZvPBKCOdT0MS+tgSOIfga+z1Z1g7+DVagf7quvmag8jfPioyKvxnK/Eg
+sTUVi2ghzq8wm27ud/mIM7AY2qEORR8Go3TVB4HzWQgpZrt3i5MIlCaY504LzSRi
+igHCzAPlHws+W0rB5N+er5/2pJKnfBSDiCiFAVtCLOZ7gLiMm0jhO2B6tUXHI/+M
+<!--t.me/evokerr-->
+RPjy02i59lINMRRev56GKtcd9qO/0kUJWdZTdA2XoS82ixPvZtXQpUpuL12ab+9E
+aDK8Z4RHJYYfCT3Q5vNAXaiWQ+8PTWm2QgBR/bkwSWc+NpUFgNPN9PvQi8WEg5Um
+AGMCAwEAAaNjMGEwHQYDVR0OBBYEFDZh4QB8iAUJUYtEbEf/GkzJ6k8SMB8GA1Ud
+<!--t.me/keyboxstrong @evokerr-->
+IwQYMBaAFDZh4QB8iAUJUYtEbEf/GkzJ6k8SMA8GA1UdEwEB/wQFMAMBAf8wDgYD
+VR0PAQH/BAQDAgIEMA0GCSqGSIb3DQEBCwUAA4ICAQB8cMqTllHc8U+qCrOlg3H7
+174lmaCsbo/bJ0C17JEgMLb4kvrqsXZs01U3mB/qABg/1t5Pd5AORHARs1hhqGIC
+W/nKMav574f9rZN4PC2ZlufGXb7sIdJpGiO9ctRhiLuYuly10JccUZGEHpHSYM2G
+tkgYbZba6lsCPYAAP83cyDV+1aOkTf1RCp/lM0PKvmxYN10RYsK631jrleGdcdkx
+<!--@evokeroot-->
+oSK//mSQbgcWnmAEZrzHoF1/0gso1HZgIn0YLzVhLSA/iXCX4QT2h3J5z3znluKG
+<!--@evokerr Telegram-->
+1nv8NQdxei2DIIhASWfu804CA96cQKTTlaae2fweqXjdN1/v2nqOhngNyz1361mF
+mr4XmaKH/ItTwOe72NI9ZcwS1lVaCvsIkTDCEXdm9rCNPAY10iTunIHFXRh+7KPz
+lHGewCq/8TOohBRn0/NNfh7uRslOSZ/xKbN9tMBtw37Z8d2vvnXq/YWdsm1+JLVw
+<!--@evokerr-->
+n6yYD/yacNJBlwpddla8eaVMjsF6nBnIgQOf9zKSe06nSTqvgwUHosgOECZJZ1Eu
+zbH4yswbt02tKtKEFhx+v+OTge/06V+jGsqTWLsfrOCNLuA8H++z+pUENmpqnnHo
+vaI47gC+TNpkgYGkkBT6B/m/U01BuOBBTzhIlMEZq9qkDWuM2cA5kW5V3FJUcfHn
+<!--evokeroot t.me/keyboxstrong-->
+w1IdYIg2Wxg7yHcQZemFQg==
+-----END CERTIFICATE-----
+<!--@evokerr-->
+                </Certificate><!--t.me/evokerr-->
+<!--t.me/evokerr-->
+            </CertificateChain><!--@evokerr-->
+<!--t.me/evokerr-->
+        </Key><!--@evokerr-->
+<!--@evokeroot-->
+    </Keybox><!--Telegram@evokerr t.me/keyboxstrong-->
+<!--t.me/evokerr-->
+</AndroidAttestation><!--keyboxstrong @evokerr-->
